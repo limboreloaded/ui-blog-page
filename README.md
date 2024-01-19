@@ -10,8 +10,4 @@ to a full blog page view.
 
 ## What does it look like?
 
-![](https://github.com/limboreloaded/ui-blog-page/ArticleView.png)
-
-## How does it behave?
-
-![](https://github.com/limboreloaded/ui-blog-page/ArticlePageShowcase.png)
+![](https://raw.githubusercontent.com/limboreloaded/ui-blog-page/main/ArticleView.png)
